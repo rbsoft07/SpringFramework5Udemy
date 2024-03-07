@@ -15,7 +15,8 @@ import com.dependency.app.AOP.TargetObjectAOP;
 import com.dependency.app.lifeCycle.ExplicitBean;
 import com.dependency.app.lifeCycle.LifeCycleBean;
 
-//Nodificacion para enviar segundo commit.
+//Modificacion para enviar segundo commit.
+//Nuevo cambio clase principal
 
 @SpringBootApplication
 public class DependencyInyecctionApplication {
